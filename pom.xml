@@ -217,7 +217,7 @@
     <connection>scm:git:git@github.com:ishrak99/learn_DevOps_hello-world.git</connection>
     <developerConnection>scm:git:git@github.com:ishrak99/learn_DevOps_hello-world.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/maven-project</url>
+    <url>http://github.com/ishrak99/learn_DevOps_hello-world</url>
   </scm>
 
   <prerequisites>
